@@ -1,0 +1,99 @@
+
+body {
+  background-color: pink;
+}
+
+.container {
+
+  background-image: url(../1.jpg);
+  background-repeat: no-repeat center center fixed;
+  background-size: contain;
+  border-style: solid;;
+  border-radius: 90px;
+  border-width: 60px;
+  border-color: #ffff;
+  width: 100%;
+  height: 100%;
+  padding: 50px 0;
+  background-size: cover;
+  height: 855px;
+  border-style:
+
+
+
+
+}
+
+
+
+h1 {
+color: #c111aa;
+font-size: 80px;
+font-family: fantasy;
+align-content: center;
+font-weight: bolder;
+}
+
+button {
+  color: purple;
+  font-size: 35pt;
+  font-family: fantasy;
+  align-content: center;
+
+}
+
+#star {
+  width:70px;
+
+}
+
+input {
+  color: blue;
+  font-size: 30pt;
+  font-family: fantasy;
+  align-content: center;
+}
+
+h3, h2 {
+  color: #F4C0FF;
+  font-size: 30pt;
+  font-family: fantasy;
+  align-content: center;
+  font-weight: bold;
+}
+
+
+.qa {
+  color: blue;
+  font-size: 35pt;
+  font-family: fantasy;
+  align-content: center;
+  font-weight: bold;
+  visibility: hidden;
+}
+
+.ans {
+  color: red;
+  font-size: 35pt;
+  font-family: fantasy;
+  align-content: center;
+  font-weight: bold;
+  visibility: hidden;
+}
+
+
+h2:hover {
+  color:green;
+}
+
+h3:hover {
+  color: green;
+}
+
+#maintext {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  margin-bottom: auto;
+  color: blue;
+}
